@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_version": "1.0.0.1",
+  "option_operagx_next_version": "1.0.0.2",
+  "option_operagx_game_name": "CaveBoy",
+  "option_operagx_interpolate_pixels": true,
+  "option_operagx_scale": 0,
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_display_cursor": true,
+  "option_operagx_guid": "a10d5ff1-c398-4f82-acf1-7ef45bbd70b5",
+  "option_operagx_team_name": "Knavels",
+  "option_operagx_team_id": "f559fc9d-5010-4f76-86d8-498bfb9974e2",
+  "option_operagx_editUrl": "https://create.gx.games/game/a10d5ff1-c398-4f82-acf1-7ef45bbd70b5/edit",
+  "option_operagx_internalShareUrl": "https://gx.games/games/gjhq99/caveboy/tracks/ec3ffbc1-407d-4911-961d-9a236ea64831/",
+  "option_operagx_publicShareUrl": "",
+}

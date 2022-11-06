@@ -1,0 +1,1 @@
+/// @description alarm place holder for stall state
