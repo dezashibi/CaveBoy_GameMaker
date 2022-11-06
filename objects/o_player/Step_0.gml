@@ -2,13 +2,13 @@
 
 #region SETUP CONTROLS FOR THE PLAYER
 
-var _right = keyboard_check(vk_right);
-var _left = keyboard_check(vk_left);
-var _up = keyboard_check(vk_up);
-var _down = keyboard_check(vk_down);
+var _right = keyboard_check(vk_right) or keyboard_check(ord("D"));
+var _left = keyboard_check(vk_left) or keyboard_check(ord("A"));
+var _up = keyboard_check(vk_space);
+var _down = keyboard_check(vk_down) or keyboard_check(ord("S"));
 
 // how long does it jump
-var _up_release = keyboard_check_released(vk_up);
+var _up_release = keyboard_check_released(vk_space);
 
 #endregion
 

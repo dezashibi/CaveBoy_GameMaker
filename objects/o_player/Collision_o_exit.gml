@@ -1,5 +1,5 @@
 /// @description Move to next level
-var _up = keyboard_check(vk_up);
+var _up = keyboard_check(ord("W")) or keyboard_check(vk_up);
 if (_up and other.visible == true)
 {
 	y = yprevious;
